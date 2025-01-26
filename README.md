@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chizzyofficial
-- 👀 I’m interested in creating a gps app
+- 👀 I’m interested in creating an to track stolen phones current locatio  using phone number or imei number or both
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on the development of the app
 - 📫 How to reach me @, chizzy.emereonye@gmail.com
